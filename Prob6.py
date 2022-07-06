@@ -1,4 +1,6 @@
 # Problem 6
+# Test
+
 purchase = float(input('Amount of purchase: '))
 installment = float(input('Number of installment: '))
 total_purchase = (0.05 * purchase) 
